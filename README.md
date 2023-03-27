@@ -1,6 +1,6 @@
 # Tic-tac-toe
 ## about
-* simple game 
+* simple Tic-tac-toe game made with Flutter for mobile application 
 
 
 ## preview
